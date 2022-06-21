@@ -3,8 +3,8 @@ const { I, home_page, pin_page } = inject()
 Feature('login')
 
 Scenario('Login with success', ({ I }) => {
-  var login = 'giovani.bresolin@seedz.ag'
-  var password = 'Maio@2022'
+  var login = ''
+  var password = ''
   var codePin = '2512'
 
   I.amOnPage('/')
