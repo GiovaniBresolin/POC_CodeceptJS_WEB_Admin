@@ -2,7 +2,12 @@ Projeto de POC com codeceptjs
 
 Clonar repositório git clone : https://github.com/GiovaniBresolin/POC_CodeceptJS_WEB_Admin.git
 
-Instalar dependencias: npm install
+Criar pastas:
+node_modules
+output
 
-Rodar testes : npx codeceptjs run --steps
+Instalar dependencias:
+npm install
 
+Rodar testes : 
+npx codeceptjs run --steps
